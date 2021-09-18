@@ -1,0 +1,46 @@
+#ico-h1{
+    color: #ffc800;
+    font-size: 1.571em;
+    line-height: .6;
+    text-decoration: none;
+}
+#ico-h1 strong {font-size: 0.66em; 
+    font-weight: normal;
+}
+
+/* .carousel-item{
+    height: 100vh;
+} */
+
+.btn-personal {
+    color: #ffc800;
+    background-color: white;
+    border-color: #ffc800;
+}
+
+.portfolio-item {
+    box-shadow: 2px 2px 5px #999;
+}
+/* @media (max-width: 480px) {
+
+#mainNav{
+    background-color: transparent;
+  }
+  .carousel-item{
+    height: 100vh;
+} 
+} */
+.carousel-caption h2{
+    font-size: 32 px;
+    line-height: 1.2em;
+    font-weight: 800;
+    /* font-family: "SanukBigPro-Medium"; */
+    /* color: #4A4A4A; */
+    color: black;
+    text-shadow: 0 0 15px #fff;
+    /* transform: translateY(-30px); */
+    /* opacity: 0; */
+}
+.carousel-caption p{
+    color: black;
+}
